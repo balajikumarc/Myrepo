@@ -7,6 +7,9 @@ public class My1 {
 		System.out.println("hdgfh");
 		System.out.println("auishduih");
 		System.out.println("sjhfjkjg");
+		for(int i=0;i<10;i++){
+			System.out.println(i);
+		}
 	}
 
 }
